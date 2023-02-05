@@ -1,0 +1,68 @@
+{
+  "contacts": [
+    {
+      "id": "a1",
+      "name": "Saran",
+      "company": "Credence Analytics",
+      "email": "saran29.94@gmail.com",
+      "title": "Developer",
+      "mobile": 8989232476,
+      "photo": "https://www.pngall.com/wp-content/uploads/12/Avatar-Profile-PNG-Photos.png",
+      "groupId": "1"
+    },
+    {
+      "id": "a2",
+      "name": "Pradeep",
+      "company": "Credence Analytics",
+      "email": "Pradeep@gmail.com",
+      "title": "Developer",
+      "mobile": "1298418283",
+      "photo": "https://images.assetsdelivery.com/compings_v2/yupiramos/yupiramos2004/yupiramos200436847.jpg",
+      "groupId": "2"
+    },
+    {
+      "id": "a3",
+      "name": "Akshay",
+      "company": "Credence Analytics",
+      "email": "Akshay@gmail.com",
+      "title": "Developer",
+      "mobile": "9987123498",
+      "photo": "https://www.pngall.com/wp-content/uploads/12/Avatar-Profile-Vector.png",
+      "groupId": "3"
+    },
+    {
+      "name": "Sachu",
+      "company": "Labro",
+      "email": "Sachu@gmail.com",
+      "title": "Developer",
+      "mobile": 8769834876,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Circle-icons-profile.svg",
+      "groupId": "2",
+      "id": "BUJubzY"
+    },
+    {
+      "name": "Ajay",
+      "company": "Credence Analytics",
+      "email": "Ajay@gmail.com",
+      "title": "Developer",
+      "mobile": 1234123412,
+      "photo": "https://images.assetsdelivery.com/compings_v2/yupiramos/yupiramos2004/yupiramos200436847.jpg",
+      "groupId": "1",
+      "id": "qVjAS7X"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "College Mate"
+    },
+    {
+      "id": "3",
+      "name": "Friend"
+    }
+  ]
+}
