@@ -42,7 +42,7 @@
                 </div>
 
                 <div class="col-md-5">
-                    <img :src="contact.photo" alt="profile" class="contact-img">
+                    <img :src="contact.photo ? contact.photo : rescueImg" alt="profile" class="contact-img">
                 </div>
             </div>
         </div>
@@ -65,7 +65,8 @@ export default {
                 photo: '',
                 groupId: '',
             },
-            groups : []
+            groups : [],
+            rescueImg: '../assets/ImageNotAvail.jpg'
         }
     },
     created: async function (){
@@ -89,9 +90,8 @@ export default {
             } catch (error) {
                 console.log(error);
             }
-        }
-    }
-        
+        },
+    },  
     }
 </script>
 
